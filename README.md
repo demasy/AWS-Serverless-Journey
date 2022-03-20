@@ -1,7 +1,15 @@
 # AWS Serverless Journey
 **Serverless**: Run code without thinking about servers. Pay only for the compute time you consume.
 
+- We "rent the infrastructure to run our code
+- "Serverless" is not actually server less!
+- There are still servers, but these resources are managed by the cloud provider
+- as Functions as a Services (FAAS)
+
+
+#### AWS Services :-
 - AWS Lambda
+- AWS Fargate
 
 
 <br>
