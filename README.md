@@ -20,7 +20,7 @@ AWS Lambda is a serverless, event-driven compute service that lets you run code 
 - <a href="https://aws.amazon.com/lambda/?c=cp&sec=srv">AWS Lambda</a>
 - <a href="https://aws.amazon.com/lambda/features">AWS Lambda Features</a>
 - <a href="https://aws.amazon.com/getting-started/hands-on/run-serverless-code/">Run a Serverless "Hello, World!" with AWS Lambda</a>
-### Cloud Academy [Not Free]
+#### Cloud Academy [Not Free]
 - <a href="https://aws.amazon.com/products/compute/">Getting Started with Serverless Computing on AWS</a>
 - <a href="https://cloudacademy.com/learning-paths/serverless-computing-aws-developers-45/">Serverless Computing on AWS for Developers</a>
 - <a href="https://cloudacademy.com/learning-paths/serverless-platform-services-on-aws-1259/">Serverless Platform Services on AWS</a>
