@@ -1,1 +1,1 @@
-# AWS-Serverless-Journey
+# AWS Serverless Journey
