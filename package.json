@@ -2,7 +2,7 @@
   "name": "aws-serverless-journey",
   "version": "1.0.0",
   "description": "**Serverless**: Run code without thinking about servers. Pay only for the compute time you consume.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
