@@ -1,4 +1,4 @@
-# Demasy Labs Hands-on-labs
+# Hands-on-labs
 
 
 
